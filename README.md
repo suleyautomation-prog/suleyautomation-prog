@@ -1,16 +1,20 @@
-## Hi there 👋
+ 
 
-<!--
-**suleyautomation-prog/suleyautomation-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+J’aide les indépendants et petites entreprises à gagner du temps en automatisant leurs tâches répétitives avec Python.
 
-Here are some ideas to get you started:
+CTA :
+**Besoin d’un script qui organise vos fichiers ou nettoie vos Excel ?** → contact@tonmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Service sample (bullet) :
+
+🗂 Organisation automatique de fichiers (renommage, tri, dossiers)
+
+🧹 Nettoyage Excel / CSV (suppression doublons, normalisation dates)
+
+🌐 Scraping simple → export CSV
+
+Compétences :
+Python · pandas · openpyxl · requests · BeautifulSoup · os · shutil · pyinstaller
+
+Prix (exemple) :
+À partir de 15€ — scripts simples livrés sous 48h. Devis gratuit.

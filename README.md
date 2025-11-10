@@ -3,7 +3,7 @@
 J’aide les indépendants et petites entreprises à gagner du temps en automatisant leurs tâches répétitives avec Python.
 
 CTA :
-**Besoin d’un script qui organise vos fichiers ou nettoie vos Excel ?** → contact@tonmail.com
+**Besoin d’un script qui organise vos fichiers ou nettoie vos Excel ?** → suley.autoamtion@tonmail.com
 
 Service sample (bullet) :
 

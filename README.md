@@ -1,20 +1,41 @@
- 
+J’aide les indépendants et petites entreprises à gagner du temps en automatisant leurs tâches répétitives grâce à Python.
 
-J’aide les indépendants et petites entreprises à gagner du temps en automatisant leurs tâches répétitives avec Python.
+📩 Besoin d’un script rapidement ?
 
-CTA :
-**Besoin d’un script qui organise vos fichiers ou nettoie vos Excel ?** → suley.autoamtion@gmail.com
+→ suley.automation@gmail.com
 
-Service sample (bullet) :
+💼 Services proposés
+🗂 Gestion & organisation automatique de fichiers
 
-🗂 Organisation automatique de fichiers (renommage, tri, dossiers)
+Renommage intelligent
 
-🧹 Nettoyage Excel / CSV (suppression doublons, normalisation dates)
+Tri automatique
 
-🌐 Scraping simple → export CSV
+Création et structuration de dossiers
 
-Compétences :
-Python · pandas · openpyxl · requests · BeautifulSoup · os · shutil · pyinstaller
+🧹 Nettoyage & préparation de données Excel / CSV
 
-Prix (exemple) :
-À partir de 15€ — scripts simples livrés sous 48h. Devis gratuit.
+Suppression de doublons
+
+Normalisation de dates
+
+Nettoyage des colonnes
+
+Fusion / séparation de fichiers
+
+🌐 Web Scraping (simple)
+
+Extraction d’informations ciblées
+
+Export propre en CSV / Excel
+
+🛠️ Compétences & outils
+
+Python · pandas · openpyxl · requests · BeautifulSoup
+os · shutil · pyinstaller · automation scripts
+
+💶 Tarifs
+
+À partir de 15€
+Scripts simples livrés en 48h.
+Devis gratuit et réponse rapide.

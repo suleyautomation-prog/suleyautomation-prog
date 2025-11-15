@@ -29,12 +29,6 @@ J’aide les indépendants et petites entreprises à gagner du temps en automati
    Extraction d’informations ciblées
 
    Export propre en CSV / Excel
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Scripts-blue?style=for-the-badge)
-![Email](https://img.shields.io/badge/Contact-suley.automation@gmail.com-red?style=for-the-badge)
-
-
 
 🛠️ Compétences & outils
 
@@ -46,3 +40,7 @@ os · shutil · pyinstaller · automation scripts
   À partir de 15€
   Scripts simples livrés en 48h.
   Devis gratuit et réponse rapide.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Scripts-blue?style=for-the-badge)
+![Email](https://img.shields.io/badge/Contact-suley.automation@gmail.com-red?style=for-the-badge)

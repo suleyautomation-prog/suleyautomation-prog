@@ -26,9 +26,9 @@ J’aide les indépendants et petites entreprises à gagner du temps en automati
 
 🌐 Web Scraping (simple)
 
-   Extraction d’informations ciblées
+     Extraction d’informations ciblées
 
-   Export propre en CSV / Excel
+     Export propre en CSV / Excel
 
 🛠️ Compétences & outils
 
